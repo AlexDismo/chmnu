@@ -1,0 +1,49 @@
+﻿# Build results
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+
+# User-specific files
+*.user
+*.suo
+*.sln.docstates
+
+# Visual Studio Code settings
+.vscode/
+
+# Visual Studio temporary files
+*.vs/
+.vs/
+*.vscode/
+*.sln.ide
+*.sln.user
+
+# Package files
+*.nupkg
+*.snupkg
+packages/
+
+# Logs
+*.log
+
+# Database files
+*.mdf
+*.ldf
+
+# Environment variables
+.env
+
+# DotNet specific
+project.lock.json
+project.fragment.lock.json
+*.userprefs
+
+# NUnit test result files
+*.TestResults.xml
+
+# JetBrains Rider files
+.idea/
+
+# Other
+*.db
